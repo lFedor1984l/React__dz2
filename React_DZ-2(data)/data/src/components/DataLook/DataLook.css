@@ -1,0 +1,17 @@
+.text__look {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.txt__look {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.skils__list {
+    list-style: none;
+}
+
+.skils__item {
+    margin-left: 40px;
+}

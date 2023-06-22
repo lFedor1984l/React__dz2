@@ -1,0 +1,17 @@
+.work__title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.work__txt {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid #cecece;
+}
+
+.work__text {
+    font-weight: 400;
+    display: block;
+}

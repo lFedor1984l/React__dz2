@@ -1,0 +1,26 @@
+.info {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #000;
+}
+
+.albom {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.albom__key {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.albom__name-text {
+    font-size: 30px;
+    font-weight: 400;
+}
+

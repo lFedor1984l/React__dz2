@@ -1,0 +1,27 @@
+.song {
+    padding: 0 100px;
+}
+
+.song__box {
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+
+.song__img {
+    margin-right: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+.song__desk {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.song__name {
+    font-size: 30px;
+}
